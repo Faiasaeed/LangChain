@@ -11,9 +11,9 @@ openai.organization = "org-VHPYo0VBlaFsLZevBb8m2fNj"
 
 def show_sidebar():
     st.sidebar.title("About Me")
-    st.sidebar.markdown("Hello! I'm Nawaf, Senior AI student")
-    st.sidebar.markdown("Connect with me on LinkedIn:")
-    st.sidebar.markdown('<a href="https://www.linkedin.com/in/nawafbinsaad/" target="_blank">'
+    st.sidebar.markdown("Hello! I'm Faisal, Senior Cyber Security student")
+    st.sidebar.markdown("Connect with me on: ")
+    st.sidebar.markdown('<a href="https://www.linkedin.com/" target="_blank">'
                         '<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="120">'
                         '</a>', unsafe_allow_html=True)
     st.sidebar.title("Project Description")
